@@ -16,6 +16,7 @@ public class Demo5
         list.set(1, array[1]);
         list.remove(0);
         System.out.println(list);
+        System.out.println(list);
     }
 }
 @FunctionalInterface
